@@ -24,7 +24,7 @@ Abaixo algumas ferramentas/tecnologias/processos que utilizamos por aqui:
 
 O que preciso fazer?
 ===============================
-Vamos poupar seu trabalho, vamos ser práticos e diretos, se vc quer trabalhar conosco siga os passoas abaixo:
+Vamos ser práticos e diretos, se vc quer trabalhar conosco siga os passoas abaixo:
 
 - Faça um "fork" desse projeto para sua conta git.
 - Implemente o desafio descrito no tópico abaixo.
