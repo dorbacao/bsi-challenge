@@ -3,12 +3,24 @@ Por que trabalhar na BSI?
 
 Valorizamos o aprendizado contínuo de nossos profissionais por ser o caminho mais eficiente para a melhoria e renovação de nossos serviços e o desenvolvimento da liderança por ser o meio de disseminar a nossa cultura. A busca pela performance e excelência ocorre pela constante capacitação e aperfeiçoamento de nossos colaboradores e pelas atitudes de uma liderança autêntica, que busca fazer a diferença e valoriza o desenvolvimento e potencial humano.
 
-Como funciona o desenvolvimento aí?
+Como funciona o desenvolvimento aqui?
 ===============================
 Nosso time de .Net é enxuto, apaixonado por novidades e movidos por desafios, queremos desenvolvedores que fiquem encomodados quando o Dorba(vc vai conhecer ele) disser: "você não consegue fazer isso".
 Em contrapartida, somos um time unido que acredita que é possível fazer melhor com menos, que não tem medo de novidades tecnológicas e muito menos são fanáticos por uma só linguagem.
 Você vai encontrar no nosso time, alguns profissionais casca grossa, que chegam junto e estão sempre dispostos a ajudar.
 Tem o nerd do Carlos, o Analista padrão Leonardo e a gerente hiperativa Sandra e um monte de gente fina que tá afim de trabalhar com você.
+
+Abaixo algumnas ferramentas/tecnologias/processos que utilizamos por aqui:
+  - Git/Svn
+  - Visual Studio 2012/2013
+  - Team City
+  - You Track
+  - Projetos Scrum
+  - Enterprise Architect
+  - Node.js
+  - JavaScript / knockout / AngularJs
+  - WebSockets
+
 
 O que preciso fazer?
 ===============================
