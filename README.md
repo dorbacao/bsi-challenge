@@ -5,7 +5,7 @@ Valorizamos o aprendizado contínuo de nossos profissionais por ser o caminho ma
 
 Como funciona o desenvolvimento aqui?
 ===============================
-Nosso time de .Net é enxuto, apaixonado por novidades e movidos por desafios, queremos desenvolvedores que fiquem encomodados quando o Dorba(vc vai conhecer ele) disser: "você não consegue fazer isso".
+Nosso time de .Net é enxuto, apaixonado por novidades e movidos por desafios, queremos desenvolvedores que fiquem incomodados quando o Dorba(vc vai conhecer ele) disser: "você não consegue fazer isso".
 Em contrapartida, somos um time unido que acredita que é possível fazer melhor com menos, que não tem medo de novidades tecnológicas e muito menos são fanáticos por uma só linguagem.
 Você vai encontrar no nosso time, alguns profissionais casca grossa, que chegam junto e estão sempre dispostos a ajudar.
 Tem o nerd do Carlos, o Analista padrão Leonardo e a gerente hiperativa Sandra e um monte de gente fina que tá afim de trabalhar com você.
@@ -24,7 +24,7 @@ Abaixo algumas ferramentas/tecnologias/processos que utilizamos por aqui:
 
 O que preciso fazer?
 ===============================
-Vamos ser práticos e diretos, se vc quer trabalhar conosco siga os passoas abaixo:
+Vamos ser práticos e diretos, se você quer trabalhar conosco siga os passos abaixo:
 
 - Faça um "fork" desse projeto para sua conta git.
 - Implemente o desafio descrito no tópico abaixo.
