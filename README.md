@@ -10,7 +10,7 @@ Em contrapartida, somos um time unido que acredita que é possível fazer melhor
 Você vai encontrar no nosso time, alguns profissionais casca grossa, que chegam junto e estão sempre dispostos a ajudar.
 Tem o nerd do Carlos, o Analista padrão Leonardo e a gerente hiperativa Sandra e um monte de gente fina que tá afim de trabalhar com você.
 
-Abaixo algumnas ferramentas/tecnologias/processos que utilizamos por aqui:
+Abaixo algumas ferramentas/tecnologias/processos que utilizamos por aqui:
   - Git/Svn
   - Visual Studio 2012/2013
   - Team City
@@ -26,11 +26,14 @@ O que preciso fazer?
 ===============================
 Vamos poupar seu trabalho, vamos ser práticos e diretos, se vc quer trabalhar conosco siga os passoas abaixo:
 
-1º - Faça um "fork" desse projeto para sua conta git.
-2º - Implemente o desafio descrito no tópico abaixo.
-3º - Faça um push para seu repositório com o desafio implementado.
-4º - Envie um email para o Marcus Dorbação(marcus.dorbacao@bsitecnologia.com.br) avisando que finalizou o desafio com a url do seu fork.
-5º - Cruze os dedos e aguarde nosso contato.
+- Faça um "fork" desse projeto para sua conta git.
+- Implemente o desafio descrito no tópico abaixo.
+- Faça um push para seu repositório com o desafio implementado.
+- Envie um email para o Marcus Dorbação(marcus.dorbacao@bsitecnologia.com.br) avisando que finalizou o desafio com a url do seu fork.
+- Cruze os dedos e aguarde nosso contato.
+
+The Challenge(o desafio)
+===============================
 
 
 Obs.: Caso você tenha algum blog, ou qualquer lugar na Web que fale de você, pode anotar aqui no Final do README.
