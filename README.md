@@ -36,11 +36,11 @@ The Challenge(o desafio)
 ===============================
 
 
-Obs.: Caso você tenha algum blog, ou qualquer lugar na Web que fale de você, pode anotar aqui no Final do README.
 
-Informações sobre mim?
+
+Informações sobre mim!
 ===============================
-
+Caso você tenha algum blog, ou qualquer lugar na Web que fale de você, pode anotar aqui nesta sessão
 
 
 
