@@ -20,6 +20,8 @@ Abaixo algumas ferramentas/tecnologias/processos que utilizamos por aqui:
   - Node.js
   - JavaScript / knockout / AngularJs
   - WebSockets
+  - DDD
+  - TDD
 
 
 O que preciso fazer?
