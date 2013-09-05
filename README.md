@@ -35,8 +35,10 @@ Vamos ser práticos e diretos, se você quer trabalhar conosco siga os passos ab
 The Challenge(o desafio)
 ===============================
 
-
-
+Faça uma única página com um quadrado vermelho que seja "draggable", podendo seu movido pelo mouse.
+Quando o quadrado for arrastado a posição cardinal dele deverá ser enviada para o web server implementado em C#.
+Esta posição deverá ser enviada para todas as páginas abertas, independente da seção, que deverão atualizar a posição do seu quadrado vermelho.
+Proporcionando uma experiência do quadrado se movendo em tempo real.
 
 Informações sobre mim!
 ===============================
